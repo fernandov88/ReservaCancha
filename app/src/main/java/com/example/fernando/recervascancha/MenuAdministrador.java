@@ -38,7 +38,7 @@ public class MenuAdministrador extends AppCompatActivity {
         */
 
 
-
+        //probando cambios en github//
         Bundle datos = getIntent().getExtras();
         usuario = datos.getString("usuario");
         tipo = datos.getInt("tipo");
