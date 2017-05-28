@@ -16,7 +16,7 @@ import android.widget.Toast;
 public class CrudUsuarios extends AppCompatActivity {
 
 
-    //prueba de cambios esto se va subir 
+    //prueba de cambios esto se va subir
     TextView tvTipo , tvEstado;
     EditText edtUsuario, edtClave, edtNombres, edtApellidos, edtTelefono, edtCorreo, edtComentarios;
     RadioButton rdbAdministrador, rdbCliente , rdbActivo, rdbInactivo;
@@ -24,7 +24,7 @@ public class CrudUsuarios extends AppCompatActivity {
     int tipoLogeado, accion;
     String usuarioLogeado;
 
-
+    //prueba dos con noel
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
